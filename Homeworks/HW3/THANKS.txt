@@ -1,0 +1,3 @@
+Gostaria de agradecer ao Filipe Sena pela colaboração neste homework.
+Antes de começarmos a implementar o nosso projecto, discutimos a resolução deste homework e trocamos algumas ideias que me ajudaram a implementar a minha solução e que,
+mais tarde, acabamos por utilizar no nosso projecto.
